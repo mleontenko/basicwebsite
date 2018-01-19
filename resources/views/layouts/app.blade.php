@@ -20,6 +20,10 @@
                     @include('inc.sidebar')
                 </div>
             </div>
-        </div>        
+        </div>
+        
+        <footer id="footer" class="text-center">
+            <p>Copyright 2018 &copy; mleontenko</p>
+        </footer>
     </body>
 </html>
